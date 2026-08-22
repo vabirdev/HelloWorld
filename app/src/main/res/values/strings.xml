@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="app_desc">This app is designed to bring you daily motivational quotes and good vibes. We hope you have an enjoyable experience!</string>
+    <string name="app_ver">1.0</string>
+    <string name="dev_name">Vali Asghari Bakhtavar</string>
+    <string name="dev_mail">vabirdev@gmail.com</string>
+    <string name="dev_telegram">vabirdev</string>
+    <string name="dev_rubika">ValiAsghariBakhtavar</string>
+    <string name="dev_title">App Developer</string>
+    <string name="telegram">Telegram</string>
+    <string name="rubika">Rubika</string>
+    <string name="name_hint">What\'s your name?</string>
+    <string name="submit">Submit</string>
+    <string name="welcome_snackbar">Welcome %1$s ✨</string>
+    <string name="name_required">Please enter your name first.</string>
+    <string name="welcome_back">Welcome,</string>
+    <string name="send">Send</string>
+    <string name="title_intro">Let\'s start with\n your name</string>
+    <string name="introinfo">Enter your name daily, and remember who you are. Use my quotes to achieve your best.</string>
+    <string name="dance">"Let's dance to your success,"</string>
+    <string name="run">"Let's conquer your goal,"</string>
+
+    <string-array name="motivational_quotes">
+        <item>You can do it! 🚀</item>
+        <item>Don’t give up. You’re stronger than you think 💪</item>
+        <item>Progress, not perfection ✨</item>
+        <item>Better days are on the way 🌈</item>
+        <item>Trust in God. Keep moving 🙏</item>
+        <item>With hardship comes ease 🌱</item>
+        <item>God is enough for you 🛡️</item>
+        <item>Small steps every day win big 🧠</item>
+        <item>Every day is a fresh start—shine anyway 🌟</item>
+        <item>Move slowly, but never stop 🐢</item>
+        <item>Success is built by small repeated steps 🐾</item>
+        <item>Make today better than yesterday ☀️</item>
+        <item>Trust your path, even when it’s foggy 🌫️</item>
+        <item>Dreams become real through action 🎯</item>
+        <item>Small progress beats delayed perfection 📈</item>
+        <item>Discipline creates quiet miracles ⏳</item>
+        <item>You were made for bigger days 👑</item>
+        <item>Failure is not the end; it is training 🧭</item>
+        <item>Focus—mental noise blocks growth 🧘</item>
+        <item>Every breath is a second chance 🍃</item>
+        <item>Compete with your old self, not others 🏃</item>
+        <item>Do something today your future self will thank you for 🏆</item>
+        <item>Hope is fuel on hard days 🚀</item>
+        <item>Your skills bloom with practice 🌸</item>
+        <item>Enjoy the journey, not only the destination 🗺️</item>
+        <item>You can do hard things 🔥</item>
+        <item>Consistency is stronger than motivation ⚙️</item>
+        <item>Every step builds a better version of you 🏗️</item>
+        <item>Fewer excuses, more execution 💥</item>
+        <item>You deserve peace, growth, and success 💖</item>
+        <item>A calm mind makes sharp decisions 🕊️</item>
+        <item>The future is shaped by today’s choices 🔮</item>
+        <item>Courage is moving forward despite fear ⚔️</item>
+        <item>Give yourself permission to learn 📘</item>
+        <item>Slow days are still progress 🐌</item>
+        <item>Discipline is the bridge between goals and results 🌉</item>
+        <item>Self-belief is your first victory 🏅</item>
+        <item>Every challenge gifts a new skill 🎁</item>
+        <item>You are becoming your best self 🦋</item>
+        <item>Keep going—results are on the way 🚚</item>
+        <item>Calm and consistent is unstoppable 🌊</item>
+        <item>Work with love; quality speaks ❤️</item>
+        <item>You don’t need perfection, only commitment 🤝</item>
+        <item>Success is daily right habits 📅</item>
+        <item>Keep your eyes forward 👁️</item>
+        <item>Starting over is also strength 🔄</item>
+        <item>Plant today, harvest tomorrow 🌾</item>
+    </string-array>
+</resources>

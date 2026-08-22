@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سلام دنیا</string>
+    <string name="app_desc">این برنامه جهت ارائه جملات انگیزشی و حس خوب روزانه به شما طراحی شده است. امیدواریم تجربه کاربری لذت‌بخشی داشته باشید.</string>
+    <string name="app_ver">1.0</string>
+    <string name="dev_name">ولی اصغری بختور</string>
+    <string name="dev_mail">vabirdev@gmail.com</string>
+    <string name="dev_telegram">vabirdev</string>
+    <string name="dev_rubika">ValiAsghariBakhtavar</string>
+    <string name="dev_title">توسعه‌دهنده نرم‌افزار</string>
+    <string name="telegram">تلگرام</string>
+    <string name="rubika">روبیکا</string>
+    <string name="name_hint">اسمت چیه؟</string>
+    <string name="submit">تأیید</string>
+    <string name="welcome_snackbar">خوش آمدی %1$s ✨</string>
+    <string name="name_required">لطفاً اول اسمت رو وارد کن.</string>
+    <string name="welcome_back">خوش اومدی،</string>
+    <string name="send">ارسال</string>
+    <string name="title_intro">بیاید اول با \nنام شما شروع کنیم</string>
+    <string name="introinfo">هر روز اسمت رو ثبت کن و یادت نره چه قدرت و اصالتی داری. با جملات من، بهترین نسخه خودت رو بساز!</string>
+    <string name="dance">بیا روی ریتم موفقیتت برقصیم،</string>
+    <string name="run">پیش به‌سوی فتح قله‌های موفقیت،</string>
+
+    <string-array name="motivational_quotes">
+        <item>تو می‌تونی! 🚀</item>
+        <item>تسلیم نشو. قوی‌تر از چیزی هستی که فکر می‌کنی 💪</item>
+        <item>پیشرفت مهمه، نه بی‌نقص بودن ✨</item>
+        <item>روزهای بهتر در راهه 🌈</item>
+        <item>به خدا توکل کن و ادامه بده 🙏</item>
+        <item>با هر سختی، آسانی هم هست 🌱</item>
+        <item>خدا برایت کافیست 🛡️</item>
+        <item>قدم‌های کوچکِ هر روز، نتیجه‌های بزرگ می‌سازه 🧠</item>
+        <item>هر روز یک شروع تازه است؛ بدرخش 🌟</item>
+        <item>آهسته برو، اما هرگز نایست 🐢</item>
+        <item>موفقیت از تکرار قدم‌های کوچک ساخته می‌شود 🐾</item>
+        <item>امروزت را بهتر از دیروزت بساز ☀️</item>
+        <item>به مسیرت اعتماد کن؛ حتی اگر مه‌آلود است 🌫️</item>
+        <item>رویاها با عمل، واقعی می‌شوند 🎯</item>
+        <item>پیشرفت کوچک، بهتر از کمالِ عقب‌افتاده است 📈</item>
+        <item>با نظم، معجزه‌های آرام می‌سازی ⏳</item>
+        <item>تو برای روزهای بزرگ ساخته شده‌ای 👑</item>
+        <item>شکست پایان نیست؛ بخشی از آموزش است 🧭</item>
+        <item>تمرکز کن؛ شلوغی ذهن، دشمن رشد است 🧘</item>
+        <item>هر نفس، یک فرصت دوباره است 🍃</item>
+        <item>از خودت جلو بزن، نه از دیگران 🏃</item>
+        <item>امروز کاری کن که فردا به آن افتخار کنی 🏆</item>
+        <item>امید، موتور حرکت در روزهای سخت است 🚀</item>
+        <item>توانایی‌هایت با تمرین شکوفا می‌شوند 🌸</item>
+        <item>از مسیر لذت ببر، نه فقط مقصد 🗺️</item>
+        <item>تو می‌توانی حتی وقتی سخت است 🔥</item>
+        <item>استمرار، از انگیزه قدرتمندتر است ⚙️</item>
+        <item>با هر قدم، نسخه بهتری از خودت می‌سازی 🏗️</item>
+        <item>بهانه‌ها را کم کن، اقدام را زیاد 💥</item>
+        <item>تو لایق آرامش، رشد و موفقیت هستی 💖</item>
+        <item>ذهن آرام، تصمیم‌های دقیق می‌گیرد 🕊️</item>
+        <item>آینده با انتخاب‌های امروز ساخته می‌شود 🔮</item>
+        <item>شجاعت یعنی حرکت، با وجود ترس ⚔️</item>
+        <item>به خودت فرصت یادگیری بده 📘</item>
+        <item>حتی روزهای کند هم پیشرفت‌اند 🐌</item>
+        <item>انضباط، پلی بین هدف و دستاورد است 🌉</item>
+        <item>باور به خود، اولین پیروزی است 🏅</item>
+        <item>هر چالش، یک مهارت جدید هدیه می‌دهد 🎁</item>
+        <item>تو در حال تبدیل شدن به بهترین نسخه خودت هستی 🦋</item>
+        <item>به راهت ادامه بده؛ نتایج در راه‌اند 🚚</item>
+        <item>آرام اما پیوسته، شکست‌ناپذیر است 🌊</item>
+        <item>با عشق کار کن؛ کیفیت خودش حرف می‌زند ❤️</item>
+        <item>قرار نیست کامل باشی؛ کافیست متعهد باشی 🤝</item>
+        <item>موفقیت، عادت‌های درستِ روزانه است 📅</item>
+        <item>نگاهت را به جلو نگه دار 👁️</item>
+        <item>از نو شروع کردن هم خودش قدرت است 🔄</item>
+        <item>امروز بکار، فردا برداشت کن 🌾</item>
+    </string-array>
+</resources>
