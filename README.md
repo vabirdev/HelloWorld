@@ -1,13 +1,68 @@
-# HelloWorld
-‏👋🌻Start your day with inspiration! Enjoy beautiful animations, peaceful music, and dynamic motivational quotes personalized just for you.
-‏✨ Start Every Day with Positivity and Power!
-‏Hello World is a beautifully crafted, interactive, and modern app designed to bring a smile to your face and fuel your day with inspiration.
-‏Simply enter your name to receive a personalized warm welcome complete with cheerful background sound effects, vibrant animations, and an uplifting atmosphere. Explore a rich collection of powerful motivational quotes that rotate smoothly with progress indicators to keep you focused on your growth.
-‏🌟 Key Features:
-‏• 🎨 Modern & Sleek UI: Beautiful glassmorphism design supporting both Dark and Light modes seamlessly.
-‏• 🎭 Vibrant Animations: Charming animated characters that make the user experience fun and engaging.
-‏• 🎵 Immersive Audio Experience: Soothing background music combined with interactive audio feedback.
-‏• 💬 Inspiring Quotes: Carefully chosen quotes with animated transitions to keep you motivated every single day.
-‏• 🌐 Full Dual-Language Support: Fully localized in English and Persian based on your system language.
-‏• ⚡ Fast & Lightweight: Smooth performance optimized for all Android devices.
-‏Download Hello World now and turn every moment into a step toward your best self! 🚀💫
+# 👋🌻 سلام دنیا (Hello World)
+
+یک تجربه بصری و صوتی فوق‌العاده برای شروع روز با انگیزه، انرژی مثبت و جملات الهام‌بخش! ✨
+
+## 🌞 درباره برنامه
+
+✨ روز خودت را با لبخند و انگیزه تازه شروع کن!
+
+برنامه **«سلام دنیا»** یک ابزار تعاملی، مدرن و جذاب است که طراحی شده تا هر روز به شما یادآوری کند چقدر توانمند هستید و چقدر روزهای درخشانی در انتظارتان است.
+
+کافیست اسم خود را وارد کنید تا یک خوش‌آمدگویی گرم به همراه موسیقی دلنشین و کاراکترهای انیمیشنی جذاب دریافت کنید. سپس وارد دنیایی از جملات انگیزشی و الهام‌بخش می‌شوید که به صورت پویا و انیمیشنی برای شما نمایش داده می‌شوند.
+
+---
+
+## 🌟 ویژگی‌های برجسته
+
+### 🎨 طراحی چشم‌نواز و مدرن
+- استفاده از افکت‌های سایه دار
+- پشتیبانی از حالت تاریک و روشن (**Dark / Light Theme**)
+- بک‌گراند گرافیکی پویا و جذاب
+
+### 🎭 انیمیشن‌های جذاب و زنده
+- کاراکترهای انیمیشنی دوست‌داشتنی
+- ایجاد حس شادی و انرژی مثبت هنگام استفاده از برنامه
+
+### 🎵 موسیقی و صداهای آرامش‌بخش
+- پخش موسیقی پس‌زمینه دلنشین
+- افکت صوتی اختصاصی برای خوش‌آمدگویی
+
+### 💬 جملات انگیزشی هوشمند
+- نمایش جملات کوتاه، متنوع و تأثیرگذار
+- نمایش پویا و انیمیشنی جملات
+- نوار پیشرفت زنده برای تمرکز روی اهداف روزانه
+
+### 🌐 پشتیبانی از دو زبان
+- تغییر زبان هوشمند بر اساس زبان دستگاه
+- پشتیبانی از:
+  - 🇮🇷 فارسی
+  - 🇬🇧 انگلیسی
+
+### ⚡ سریع و سبک
+- عملکرد روان و سریع
+- بهینه‌سازی شده برای گوشی‌های اندرویدی مختلف
+
+---
+
+## 🚀 شروع یک روز بهتر
+
+همین حالا **سلام دنیا** را تجربه کن و هر روز یک دوز انرژی مثبت و انگیزه دریافت کن! 🌻✨
+
+---
+
+## 🛠️ تکنولوژی‌های استفاده شده
+
+- Kotlin
+- Jetpack Compose
+- Material 3
+- Android SDK
+- Animation APIs
+- Localization (FA / EN)
+
+---
+
+## 👨‍💻 توسعه‌دهنده
+
+**Vali Asghari Bakhtavar**
+
+Android Developer | Kotlin | Jetpack Compose | UI/UX Enthusiast 🇮🇷
